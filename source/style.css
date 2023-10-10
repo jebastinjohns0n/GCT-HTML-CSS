@@ -1,0 +1,43 @@
+/* body {
+	margin: 0;
+}
+.nav {
+	display: block;
+}
+.nav ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	background-color: antiquewhite;
+	list-style: none;
+	margin: 0;
+}
+nav li {
+	padding: calc(30px - 15px);
+	font-size: 1.3em;
+}
+nav a {
+	text-decoration: none;
+	color: inherit;
+}
+nav li:hover {
+	background-color: rgb(254, 140, 0);
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.main {
+	background-color: beige;
+	display: flex;
+	justify-content: center;
+}
+
+.main p {
+	width: 60%;
+}
+
+.foot {
+	background-color: brown;
+	padding: 0.5em 0;
+	text-align: center;
+} */
